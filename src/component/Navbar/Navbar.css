@@ -1,9 +1,31 @@
 
 *{
-    margin:0;
+    margin:0px;
 }
 .nav{
     background-color:darksalmon;
-    padding:15px;
+    padding:20px;
     margin-bottom: 2%;
+}
+.nav a{
+text-decoration: none;
+color:black;
+padding:20px;
+font-size: larger;
+
+}
+.highlight{
+    
+    font-weight: bold;
+    color:blue !important;
+
+}
+.webpage{
+
+padding:20px;
+font-weight: bold;
+font-size:x-large;
+color:maroon;
+
+
 }

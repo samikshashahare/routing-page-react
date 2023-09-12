@@ -1,0 +1,29 @@
+.img-animal4 {
+    height: 50vh;
+    width: 40vw;
+    box-shadow: 2px 2px 5px 4px grey;
+    border-radius: 5px;
+}
+
+.about-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.info {
+    background-color: lightcoral;
+    height: 54vh;
+    width: 22vw;
+    padding: 12px;
+    font-weight: bold;
+    font-size: x-large;
+    border-radius: 7px;
+    border: 2px solid maroon;
+    padding-top: 3%;
+    box-shadow: 2px 2px 5px 4px grey;
+}
+
+.head-1 {
+    color: maroon;
+}

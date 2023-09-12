@@ -1,0 +1,19 @@
+
+.container-2{
+    background-color:rgb(230, 127, 92);
+    padding:10px;
+}
+.f-head{
+    padding-inline: 45%;
+}
+.img-container{
+    display:flex;
+    justify-content:space-around; 
+     padding-inline:35%;
+    padding-block: 3%;
+}
+.img{
+    height:5vh;
+    box-shadow:2px 2px 3px 2px maroon;
+    padding:5px;
+}

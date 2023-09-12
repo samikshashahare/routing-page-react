@@ -1,0 +1,31 @@
+
+.img-container1{
+    display:flex;
+    justify-content: space-around;
+    margin-left:2.5%;
+
+}
+
+.img-animal1{
+   height:63vh;
+   width:27vw;
+   box-shadow: 2px 2px 5px 4px grey ;
+   border-radius: 5px;
+}
+.img-animal2{
+    height:63vh;
+    width:27vw;
+    box-shadow: 2px 2px 5px 4px grey ;
+    border-radius: 5px;
+
+
+ }
+ .img-animal3{
+    height:63vh;
+    width:40vw;
+    padding-bottom:0px;
+    box-shadow: 2px 2px 5px 4px grey ;
+    border-radius: 5px;
+
+
+ }

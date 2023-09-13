@@ -4,21 +4,15 @@ import Button from '../../component/Button/Button';
 import Footer from '../../component/Footer/Footer';
 import Imganimal4 from './../../Images/animal-4.jpg';
 
-
-
 export default function About() {
     return (
         <div className="container">
             <Navbar />
-
             <div className='about-container'>
                 <div className='info'>
-                    <p>
-                        <h3 className='head-1'>💁‍♀️Info-Wild Animals </h3><br />
-                        Wild animals are animals that live in forests. These animals are not normally domesticated. The major wild animals of India are elephant, tiger, lion, deer, bear etc. Wild animals are very important in balancing the environment.
-                    </p>
+                    <p> <h3 className='head-1'>💁‍♀️Info-Wild Animals </h3><br />
+                        Wild animals are animals that live in forests. These animals are not normally domesticated. The major wild animals of India are elephant, tiger, lion, deer, bear etc. Wild animals are very important in balancing the environment. </p>
                 </div>
-
                 <div>
                     <img src={Imganimal4} alt="img-animal" className="img-animal4" />
                 </div>
